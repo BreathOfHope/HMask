@@ -11,3 +11,5 @@ Target is to build a mask without using stitching which will reduce the build ti
 <div align="center">
     <a href="https://www.youtube.com/watch?v=WQjonYv3WdI"><img src="https://img.youtube.com/vi/WQjonYv3WdI/0.jpg" alt="HMask"></a>
 </div>
+
+Created By: [Barker Bhaskaran](https://github.com/barkerbhaskaran)
