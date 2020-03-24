@@ -1,5 +1,5 @@
 # HMask
-## the face mask project for HEPA filters
+## The face mask project for HEPA filters
 
 
 Hepa filters offers 99.97% filtering efficiency at 0.3 micron for particulate matter, hence can be used to filter out viruses. The aim of current project is to create a design for face mask using hepa filter.
@@ -9,6 +9,5 @@ Target is to build a mask without using stitching which will reduce the build ti
 [View Here](https://youtu.be/WQjonYv3WdI)
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WQjonYv3WdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-  </iframe>
+    <a href="https://www.youtube.com/watch?v=WQjonYv3WdI"><img src="https://img.youtube.com/vi/WQjonYv3WdI/0.jpg" alt="HMask"></a>
 </div>
