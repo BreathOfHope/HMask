@@ -18,5 +18,18 @@ Target is to build a mask without using stitching which will reduce the build ti
 
 ![How to create mask](img/mask.png)
 
+## DIY Face Shield
+
+Face shields are used by healthcare givers in hospital environment to protect against sputter. Since #COVID19 spread through droplets produced by sneeze, cough or spit , service personal like police or delivery men and even general public could also use them. Used along with facemask and cap it gives protection for the facial area. Use PE, PET, (polyethylene terephthalate), PEG material to make the shield. You could use the overhead projector slide for DIY. This is based on feedback I got from a textile material expert. In this video a PE material like transparent thick plastic is used. One can reuse face shield after killing the germs with detergent. This video is meant for sharing the idea. If you make one consult your local health department before using it.
+
+### How to create
+
+[View Here](https://youtu.be/EocG8p3JVho)
+
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=EocG8p3JVho"><img src="https://img.youtube.com/vi/EocG8p3JVho/0.jpg" alt="DIY Face Shield"></a>
+</div>
+
+
 
 Created By: [Barker Bhaskaran](https://github.com/barkerbhaskaran)
