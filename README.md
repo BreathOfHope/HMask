@@ -31,9 +31,13 @@ Face shields are used by healthcare givers in hospital environment to protect ag
 </div>
 
 
+[More Here](Fshield.pdf)
+
 
 Created By: [Barker Bhaskaran](https://github.com/barkerbhaskaran)
 
 
 ## PIC (Portable intubation chamber)
+
+[More Here](PIC.pdf)
 
